@@ -7,7 +7,7 @@
 
 Below is the fizzbuzz.html file.  
 
-<!DOCTYPE html>  
+><!DOCTYPE html>  
 <html>  
 <head>  	
 <meta charset="UTF-8">  
