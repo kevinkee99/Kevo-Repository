@@ -1,3 +1,9 @@
 # Page 1: Code Block
 
-> **Description**: This page shows code block that I created for INFOTC-1000 class assignment. This program is called "FizzBuzz" and it outputs numbers from 1 to 100. Numbers that are divisible by 3 is replaced with "Fizz".
+> **Description**: This page shows code block that I created for INFOTC-1000 class assignment. This program is called "FizzBuzz" and the purpose of this program is to output nubmer from 1 to 100 with following conditions:
+> 1. If the number is divisible by 3, replace it with "Fizz".
+> 2. If the number is divisible by 5, replace it with "Buzz".
+> 3. If the number is divisble by 3 and 5, replace it with "FizzBuzz".
+
+> Click [here] to open the fizzbuzz.html file! 
+> [here]: file:///C:/Users/kevin/OneDrive/Documents/school%20work/INFOTC-1000/fizzbuzz.html
