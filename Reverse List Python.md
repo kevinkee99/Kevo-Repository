@@ -1,7 +1,7 @@
 ![python logo](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png)
 # Code Block: Reverse List (Python 3)
 
-> **Description**: I created the code block linked below for INFOTC-1040 class assignment. The program is called "Reverse List", and these are the objectives:  
+> **Description**: I created the code block linked below for INFOTC-1040 class assignment. The program is called "reverse_list", and these are the objectives:  
 > 1. Write a function that reverses the items of a list in place.
 > 2. create a test function to compare if the actual result is the same as the expected result.
 
