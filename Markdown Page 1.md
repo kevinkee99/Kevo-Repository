@@ -5,6 +5,6 @@
 > 2. If the number is divisible by 5, replace it with "Buzz".
 > 3. If the number is divisble by 3 and 5, replace it with "FizzBuzz".
 
-> Click [here][html] to open the fizzbuzz.html file! 
-> [html]: file:///C:/Users/kevin/OneDrive/Documents/school%20work/INFOTC-1000/fizzbuzz.html
+> Click [here](www.google.com) to open the fizzbuzz.html file! 
+>
 
