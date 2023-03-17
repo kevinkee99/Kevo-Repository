@@ -17,20 +17,20 @@
 		>var display = document.getElementById('display');
 		>var displayHTML = "";
 		>for (i = 1; i < 101; i++) {
-				>if (i % 3 == 0 && i % 5 == 0) {
-						>displayHTML += "<p>" + "FizzBuzz" + "</p>";
-				>}
-				>else if (i % 3 == 0) {
-						>displayHTML += "<p>"+"Fizz"+"</p>";
-				>}								
-				>else if (i % 5 == 0) {
-						>displayHTML += "<p>"+ "Buzz" + "</p>";
-				>}
-				>else {
-						>displayHTML += "<p>" + i + "</p>";		
-  			>}
-		>}
-		>display.innerHTML = displayHTML
+				if (i % 3 == 0 && i % 5 == 0) {
+						displayHTML += "<p>" + "FizzBuzz" + "</p>";
+				}
+				else if (i % 3 == 0) {
+						displayHTML += "<p>"+"Fizz"+"</p>";
+				}								
+				else if (i % 5 == 0) {
+						displayHTML += "<p>"+ "Buzz" + "</p>";
+				}
+				else {
+						displayHTML += "<p>" + i + "</p>";		
+  			}
+		}
+		display.innerHTML = displayHTML
 >}
 												
 ></script>
