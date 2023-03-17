@@ -1,6 +1,6 @@
 # Personal Introduction
 
-![pic of me]()
+![pic of me](https://github.com/kevinkee99/Kevo-Repository/blob/d5e906b7ce7e43ecba20bd3dface68f7a3805d8b/DE8FED8B-88F6-4879-A11B-8B289F417A7D%20(1).jpg)
 ### Youngki (Kevin) Lee
 **Name**: Youngki (Kevin) Lee  
 **Age**: 22  
