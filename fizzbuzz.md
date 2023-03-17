@@ -1,4 +1,4 @@
-# Page 1: Code Block
+# Code Block: FizzBuzz (javaScript)
 
 > **Description**: This page shows code block that I created for INFOTC-1000 class assignment. This program is called "FizzBuzz" and the purpose of this program is to output nubmer from 1 to 100 with following conditions:
 > 1. If the number is divisible by 3, replace it with "Fizz".
