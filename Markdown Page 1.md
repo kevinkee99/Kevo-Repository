@@ -7,13 +7,19 @@
 
 > Below is the fizzbuzz.html file.
 
-><!DOCTYPE html>
-><html>
-><head>
-><meta charset="UTF-8">
-><title>Fizz Buzz</title>
-><script>
->function fizzbuzz() {
+<!DOCTYPE html>
+
+<html>
+	
+<head>
+	
+<meta charset="UTF-8">
+	
+<title>Fizz Buzz</title>
+	
+<script>
+	
+function fizzbuzz() {
 		var display = document.getElementById('display');
 		var displayHTML = "";
 		for (i = 1; i < 101; i++) {
@@ -31,16 +37,16 @@
   			}
 		}
 		display.innerHTML = displayHTML
->}
+}
 												
-></script>
+</script>
 	
-></head>
+</head>
 	
-><body onload="fizzbuzz()">
-><div id="display">
+<body onload="fizzbuzz()">
+<div id="display">
 
-></div>
-></body>	
+</div>
+</body>	
 
-></html>
+</html>
