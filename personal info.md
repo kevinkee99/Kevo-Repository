@@ -1,6 +1,6 @@
 # Personal Introduction
 
-![pic of me](https://github.com/kevinkee99/Kevo-Repository/blob/d5e906b7ce7e43ecba20bd3dface68f7a3805d8b/DE8FED8B-88F6-4879-A11B-8B289F417A7D%20(1).jpg)
+![pic of me]()
 ### Youngki (Kevin) Lee
 * **Name**: Youngki (Kevin) Lee  
 * **Age**: 22  
@@ -9,4 +9,4 @@
 * **Hobby**: Video game, music, piano, and skating  
 * **Pet(s)**: Winnie (Pitbull & Chihuahua mix) and Willow (Domestic Shorthair)  
 * **Family**: parents and two sisters who are amazing!  
-
+[pic of kids](https://github.com/kevinkee99/Kevo-Repository/blob/0086e6956c09f411a2aa0d8b961f3e9a1088121a/dogpic.jpg)
