@@ -7,4 +7,4 @@
 
 Click [here](https://github.com/kevinkee99/Kevo-Repository/blob/48f003d806381971922d791fc9154126a4e5ca4f/reverse_list.py) to open the Python file.
 
-To go back to the home page, click[here](https://github.com/kevinkee99/Kevo-Repository/blob/48f003d806381971922d791fc9154126a4e5ca4f/README.md).
+To go back to the home page, click[here](https://github.com/kevinkee99/Kevo-Repository/blob/bafc919339c191efd0569b79a3342e50faa8b0ce/README.md).
