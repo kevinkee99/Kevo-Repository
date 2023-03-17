@@ -5,5 +5,5 @@
 > 2. If the number is divisible by 5, replace it with "Buzz".
 > 3. If the number is divisble by 3 and 5, replace it with "FizzBuzz".
 
-Below is the fizzbuzz.html file.  
+Click [here](https://github.com/kevinkee99/Kevo-Repository/blob/4523ed73f9a8f988a9953d5dccd91f481703b705/fizzbuzz.html) to open the fizzbuzz.html file!
 
