@@ -9,5 +9,5 @@
 * Page to personal introduction: Click [here](https://github.com/kevinkee99/Kevo-Repository/blob/09ba850fe3bac443a1daedd6227acc73a9a060e8/personal%20info.md)
 * Page to Reverse List Code Block: Click [here](https://github.com/kevinkee99/Kevo-Repository/blob/98d292693c3b78e878dc6e2107c16bdd575935a1/Reverse%20List%20Python.md)
 * Page to Interstate Highway Code Block: Click [here](https://github.com/kevinkee99/Kevo-Repository/blob/d986a8b2eb846be0ead913fb73c2322ad06d83d5/Interstate%20Python.md)
-* Page to FizzBuzz Code Block: Click [here](https://github.com/kevinkee99/Kevo-Repository/blob/63708c35bcb972e34ca80ecd57e2c8215aece85a/fizzbuzz.md)
+* Page to FizzBuzz Code Block: Click [here](https://github.com/kevinkee99/Kevo-Repository/blob/ca20b734f155d152bdb518173aa91bde68be3e3d/fizzbuzz.md)
 * Page to Shape Volume Calculator Code Block: Click [here](https://github.com/kevinkee99/Kevo-Repository/blob/adc36867249505d5c1fe2d8ceee50f3b45bf7f63/Volume%20of%20a%20Shape.md)
